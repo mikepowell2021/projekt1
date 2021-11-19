@@ -1,7 +1,7 @@
 ## Produkty opakowaniowe w najlepszej cenie - lista
 
 wypełniacze do paczek
-[Link](url)http://becpak.eu/produkty/wypelniacze-do-paczek;8.html
+[Link](http://becpak.eu/produkty/wypelniacze-do-paczek;8.html)
 
 uwaga szkło
 http://becpak.eu/produkt/etykieta-uwaga-szk-o;47.html
