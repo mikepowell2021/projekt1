@@ -2,11 +2,11 @@
 
 [wypełniacze do paczek](http://becpak.eu/produkty/wypelniacze-do-paczek;8.html)
 
-uwaga szkło
-http://becpak.eu/produkt/etykieta-uwaga-szk-o;47.html
+[uwaga szkło]
+(http://becpak.eu/produkt/etykieta-uwaga-szk-o;47.html)
 
-folia spożywcza
-http://becpak.eu/produkt/folia-spozywcza;823.html
+[folia spożywcza]
+(http://becpak.eu/produkt/folia-spozywcza;823.html)
 
 pudełka kartonowe
 http://becpak.eu/produkty/kartony;6.html
@@ -71,34 +71,4 @@ http://becpak.eu/produkt/etykieta-uwaga-szk-o;47.html
 opakowania strunowe
 http://becpak.eu/produkty/woreczki-strunowe;12.html
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mikepowell2021/projekt1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+/contact) and we’ll help you sort it out.
